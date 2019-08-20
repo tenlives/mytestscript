@@ -1,0 +1,9 @@
+setup.py
+demo/__init__.py
+demo/test.py
+error.egg-info/PKG-INFO
+error.egg-info/SOURCES.txt
+error.egg-info/dependency_links.txt
+error.egg-info/entry_points.txt
+error.egg-info/not-zip-safe
+error.egg-info/top_level.txt
