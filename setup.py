@@ -6,6 +6,7 @@ setup(
 	packages = find_packages(),
 	author='halazi',
 	author_email='3033263880@qq.com',
+	url='https://github.com/tenlives/mytestscript'
 	entry_points ={
 		'console_scripts':[
 			'error = demo.test:main',
